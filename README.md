@@ -1,0 +1,1 @@
+# amazon_textract_comprehend_entity_extraction
